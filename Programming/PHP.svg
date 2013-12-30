@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="357.39565"
-     inkscape:cy="807.27518"
+     inkscape:zoom="1.4"
+     inkscape:cx="157.17084"
+     inkscape:cy="420.598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,7 +65,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:none;stroke:#5c3566;stroke-width:1.8213613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 416.48641,13.420023 292.74146,0 c 11.08,0 20,8.92 20,20 l 0,477.741487 -332.74146,0 0,-477.741487 c 0,-11.08 8.92,-20 20,-20 z"
        id="rect2987"
        inkscape:connector-curvature="0"
@@ -148,7 +148,7 @@
          sodipodi:role="line"
          x="400.65991"
          y="221.83438"
-         id="tspan4173"></tspan><tspan
+         id="tspan4173" /><tspan
          sodipodi:role="line"
          x="400.65991"
          y="234.33438"
@@ -188,7 +188,7 @@
          sodipodi:role="line"
          x="400.65991"
          y="346.83438"
-         id="tspan4193">    </tspan><tspan
+         id="tspan4193" /><tspan
          sodipodi:role="line"
          x="400.65991"
          y="359.33438"
@@ -204,7 +204,7 @@
          sodipodi:role="line"
          x="400.65991"
          y="396.83438"
-         id="tspan4201">    </tspan><tspan
+         id="tspan4201" /><tspan
          sodipodi:role="line"
          x="400.65991"
          y="409.33438"
@@ -256,7 +256,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:none;stroke:#5c3566;stroke-width:1.8213613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 416.5408,520.66903 292.74146,0 c 11.08,0 20,8.92 20,20 l 0,287.74147 -332.74146,0 0,-287.74147 c 0,-11.08 8.92,-20 20,-20 z"
        id="rect2987-9"
        inkscape:connector-curvature="0"
@@ -311,7 +311,7 @@
          sodipodi:role="line"
          x="400.71429"
          y="641.58337"
-         id="tspan4968">    </tspan><tspan
+         id="tspan4968" /><tspan
          sodipodi:role="line"
          x="400.71429"
          y="654.08337"
@@ -335,7 +335,7 @@
          sodipodi:role="line"
          x="400.71429"
          y="716.58337"
-         id="tspan4980">    </tspan><tspan
+         id="tspan4980" /><tspan
          sodipodi:role="line"
          x="400.71429"
          y="729.08337"
@@ -387,7 +387,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:none;stroke:#5c3566;stroke-width:1.8213613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 416.13334,837.55902 292.74146,0 c 11.08,0 20,8.92 20,20 l 0,183.74148 -332.74146,0 0,-183.74148 c 0,-11.08 8.92,-20 20,-20 z"
        id="rect2987-9-8"
        inkscape:connector-curvature="0"
@@ -486,7 +486,7 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:none;stroke:#5c3566;stroke-width:1.8213613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 39.62927,13.49144 292.74146,0 c 11.08,0 20,8.92 20,20 l 0,17.74149 -332.74146,0 0,-17.74149 c 0,-11.08 8.92,-20 20,-20 z"
        id="rect2987-0"
        inkscape:connector-curvature="0"
@@ -521,8 +521,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscc" />
     <path
-       style="fill:none;stroke:#5c3566;stroke-width:1.8213613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
-       d="m 39.343557,64.205722 292.741463,0 c 11.08,0 20,8.92 20,20.000001 l 0,467.741487 -332.741464,0 0,-467.741487 c 0,-11.080001 8.920001,-20.000001 20.000001,-20.000001 z"
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 39.501696,64.38547 292.425184,0 c 11.06803,0 19.97839,12.819299 19.97839,28.742826 l 0,672.210594 -332.381966,0 0,-672.210594 c 0,-15.923527 8.910363,-28.742826 19.978392,-28.742826 z"
        id="rect2987-0-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssccss" />
@@ -548,154 +548,218 @@
          sodipodi:role="line"
          x="23.517056"
          y="97.620071"
-         id="tspan6800">PHP-Tags:  &lt;?php echo &quot;Hello World!&quot;; ?&gt;</tspan><tspan
+         id="tspan5277">PHP-Tags:  &lt;?php echo &quot;Hello World!&quot;; ?&gt;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="110.12007"
-         id="tspan7396">           Omit closing tag in pure PHP files.</tspan><tspan
+         id="tspan6710">           Omit closing tag in pure PHP files.</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="122.62007"
-         id="tspan7398"></tspan><tspan
+         id="tspan6712"></tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="135.12007"
-         id="tspan7400">Comments:  // until end of line</tspan><tspan
+         id="tspan6714">Comments:  // until end of line</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="147.62007"
-         id="tspan7402">           /** until closed */</tspan><tspan
+         id="tspan6716">           /** until closed */</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="160.12007"
-         id="tspan7404">PHP-Doc:   /**</tspan><tspan
+         id="tspan6718">PHP-Doc:   /**</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="172.62007"
-         id="tspan7406">            * Documentation</tspan><tspan
+         id="tspan6720">            * Documentation</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="185.12007"
-         id="tspan7408">            */</tspan><tspan
+         id="tspan6722">            */</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="197.62007"
-         id="tspan7410">Integer:   5</tspan><tspan
+         id="tspan6724">Integer:   5</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="210.12007"
-         id="tspan7412">Float:     5.1</tspan><tspan
+         id="tspan6726">Float:     5.1</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="222.62007"
-         id="tspan7414">Strings:   &quot;value&quot;</tspan><tspan
+         id="tspan6728">Strings:   &quot;value&quot;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="235.12007"
-         id="tspan7416">Variables: $variable = &quot;value&quot;;</tspan><tspan
+         id="tspan6730">Variables: $variable = &quot;value&quot;;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="247.62007"
-         id="tspan7418">New Array: $array = array();</tspan><tspan
+         id="tspan6732">New Array: $array = array();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="260.12006"
-         id="tspan7420">Array:     $value = $array[3];</tspan><tspan
+         id="tspan6734">Array:     $value = $array[3];</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="272.62006"
-         id="tspan7422">Functions: function name() { ... }</tspan><tspan
+         id="tspan6736">Functions: function name() { ... }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="285.12006"
-         id="tspan7424">           function name($parameter) { ... }</tspan><tspan
+         id="tspan6738">           function name($parameter) { ... }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="297.62006"
-         id="tspan7426">           function name(&amp;$byreference) { ... }</tspan><tspan
+         id="tspan6740">           function name(&amp;$byReference) { ... }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="310.12006"
-         id="tspan7428">           function name($optional = 5) { ... }</tspan><tspan
+         id="tspan6742">           function name($optional = 5) { ... }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="322.62006"
-         id="tspan7430">           $result = someFunction($parameter);</tspan><tspan
+         id="tspan6744">           $result = someFunction($parameter);</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="335.12006"
-         id="tspan7432">Classes:   $class = new Class();</tspan><tspan
+         id="tspan6746">Classes:   $class = new Class();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="347.62006"
-         id="tspan7434"></tspan><tspan
+         id="tspan6748"></tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="360.12006"
-         id="tspan7436">Instance:  $this-&gt;instanceVariable;</tspan><tspan
+         id="tspan6750">Instance:  $this-&gt;instanceVariable;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="372.62006"
-         id="tspan7438">           $this-&gt;instanceMethod;</tspan><tspan
+         id="tspan6752">           $this-&gt;instanceMethod();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="385.12006"
-         id="tspan7440">Static:    self::staticVariable;</tspan><tspan
+         id="tspan6754">Static:    self::$staticVariable;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="397.62006"
-         id="tspan7442">           self::staticMethod();</tspan><tspan
+         id="tspan6756">           self::staticMethod();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="410.12006"
-         id="tspan7444">Outside:   $instance-&gt;instanceVariable;</tspan><tspan
+         id="tspan6758">Outside:   $instance-&gt;instanceVariable;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="422.62006"
-         id="tspan7446">           $instance-&gt;instanceMethod;</tspan><tspan
+         id="tspan6760">           $instance-&gt;instanceMethod();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="435.12006"
-         id="tspan7448">           Classname::staticVariable;</tspan><tspan
+         id="tspan6762">           Classname::$staticVariable;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="447.62006"
-         id="tspan7450">           Classname::staticMethod();</tspan><tspan
+         id="tspan6764">           Classname::staticMethod();</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="460.12006"
-         id="tspan7452"></tspan><tspan
+         id="tspan6766"></tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="472.62006"
-         id="tspan7454">Class-Definition:</tspan><tspan
+         id="tspan6768">Class-Definition:</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="485.12006"
-         id="tspan7456">    [final] class Classname {</tspan><tspan
+         id="tspan6770">    [final|abstract] class ClassName {</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="497.62006"
-         id="tspan7458">        [private|protected|public] $value;</tspan><tspan
+         id="tspan6772">        [private|protected|public] $value;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="510.12006"
-         id="tspan7460">        [private|protected|public] doSomething() {</tspan><tspan
+         id="tspan6774">        [private|protected|public] doSomething() {</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="522.62006"
-         id="tspan7462">            $this-&gt;value = 5;</tspan><tspan
+         id="tspan6776">            $this-&gt;value = 5;</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="535.12006"
-         id="tspan7464">        }</tspan><tspan
+         id="tspan6778">        }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="547.62006"
-         id="tspan7466">    }</tspan><tspan
+         id="tspan6780">    }</tspan><tspan
          sodipodi:role="line"
          x="23.517056"
          y="560.12006"
-         id="tspan7468" /></text>
+         id="tspan6782"></tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="572.62006"
+         id="tspan6784">Abstract-Class:</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="585.12006"
+         id="tspan6786">    abstract class AbstractClassName {</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="597.62006"
+         id="tspan6788">        [private|protected|public] $value;</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="610.12006"
+         id="tspan6790">        [private|protected|public] doSomething() {</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="622.62006"
+         id="tspan6792">            $this-&gt;value = 5;</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="635.12006"
+         id="tspan6794">        }</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="647.62006"
+         id="tspan6796">        [private|protected|public] $value;</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="660.12006"
+         id="tspan6798">        abstract [private|protected|public] do();</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="672.62006"
+         id="tspan6800">    }</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="685.12006"
+         id="tspan6802">    class ClassName extends AbstractClassName { }</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="697.62006"
+         id="tspan7582" /><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="710.12006"
+         id="tspan6804">Interface-Definition:</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="722.62006"
+         id="tspan6806">    interface InterfaceName {</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="735.12006"
+         id="tspan6808">        [private|protected|public] doSomething();</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="747.62006"
+         id="tspan6810">    }</tspan><tspan
+         sodipodi:role="line"
+         x="23.517056"
+         y="760.12006"
+         id="tspan6812">    class ClassName implements InterfaceName { }</tspan></text>
   </g>
 </svg>
