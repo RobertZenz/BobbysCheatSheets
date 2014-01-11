@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70000001"
-     inkscape:cx="592.92496"
-     inkscape:cy="757.52716"
+     inkscape:cx="417.67414"
+     inkscape:cy="657.21778"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -906,5 +906,51 @@
          y="997.33124"
          id="tspan39344-5-2"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">0x7f  127  DEL  delete</tspan></text>
+    <path
+       style="fill:#555753;fill-opacity:1;stroke:none"
+       d="m 19.019593,296.7381 333.350337,0 c 0,0 0.25998,-23.7386 -20.95323,-23.7386 -21.21321,0 -290.729587,0.20921 -290.729587,0.20921 0,0 -21.74367,-0.86221 -21.66752,23.52939 z"
+       id="path3763-5-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none"
+       d="m 39.476613,273.61494 292.475347,0 c 11.06993,0 19.98181,7.83282 19.98181,22.53098 l 0,40.5451 -332.438977,0 0,-40.5451 c 0,-14.69816 8.91189,-22.53098 19.98182,-22.53098 z"
+       id="rect2987-0-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       x="37.202332"
+       y="289.16193"
+       id="text3759-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-6-2"
+         x="37.202332"
+         y="289.16193"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Byte order mark (BOM)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="23.517059"
+       y="306.87805"
+       id="text3765-8-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="306.87805"
+         id="tspan4413-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Can appear at the start of stream, should not be used</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="319.37805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4892">because of compatibility issues:</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="331.87805"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4890">  0xEF 0xBB 0xBF   prints as   ï»¿</tspan></text>
   </g>
 </svg>
