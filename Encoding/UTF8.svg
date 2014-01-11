@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000001"
-     inkscape:cx="417.67414"
-     inkscape:cy="657.21778"
+     inkscape:zoom="1.979899"
+     inkscape:cx="181.53352"
+     inkscape:cy="699.13652"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -952,5 +952,61 @@
          y="331.87805"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan4890">  0xEF 0xBB 0xBF   prints as   ï»¿</tspan></text>
+    <path
+       style="fill:#555753;fill-opacity:1;stroke:none"
+       d="m 19.01959,372.23302 333.35034,0 c 0,0 0.25998,-23.7386 -20.95323,-23.7386 -21.21321,0 -290.72959,0.20921 -290.72959,0.20921 0,0 -21.74367,-0.86221 -21.66752,23.52939 z"
+       id="path3763-5-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-opacity:1;stroke-dasharray:none"
+       d="m 39.47661,349.10986 292.47535,0 c 11.06993,0 19.98181,7.83282 19.98181,22.53098 l 0,65.53495 -332.43898,0 0,-65.53495 c 0,-14.69816 8.91189,-22.53098 19.98182,-22.53098 z"
+       id="rect2987-0-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       x="37.202332"
+       y="364.65686"
+       id="text3759-3-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-6-2-0"
+         x="37.202332"
+         y="364.65686"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Invalid values</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="23.517059"
+       y="382.37299"
+       id="text3765-8-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="382.37299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4890-0">Only for overlong ASCII encoding:</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="394.87299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4938">   0xc0    192</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="407.37299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4940">   0xC1    193</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="419.87299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4942">Never valid:</tspan><tspan
+         sodipodi:role="line"
+         x="23.517059"
+         y="432.37299"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4946">   0xF5    245   -   0xFF    255</tspan></text>
   </g>
 </svg>
