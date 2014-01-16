@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="185.28044"
-     inkscape:cy="227.1824"
+     inkscape:zoom="3.959798"
+     inkscape:cx="549.1666"
+     inkscape:cy="932.74307"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -58,6 +58,71 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:0.2;fill:#5c3566;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4252"
+       width="332.59271"
+       height="11.616755"
+       x="391.68665"
+       y="49.280704" />
+    <rect
+       style="opacity:0.2;fill:#5c3566;stroke:none"
+       id="rect4252-9"
+       width="332.59271"
+       height="11.616755"
+       x="391.56039"
+       y="74.534515" />
+    <rect
+       style="opacity:0.2;fill:#5c3566;stroke:none"
+       id="rect4252-4"
+       width="332.59271"
+       height="11.616755"
+       x="391.30786"
+       y="99.283257" />
+    <rect
+       style="opacity:0.2;fill:#5c3566;stroke:none"
+       id="rect4252-95"
+       width="332.59271"
+       height="11.616755"
+       x="391.56039"
+       y="124.28453" />
+    <rect
+       style="opacity:0.2;fill:#5c3566;stroke:none"
+       id="rect4252-8"
+       width="332.59271"
+       height="11.616755"
+       x="391.30786"
+       y="149.28581" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 489.10714,176.19834 0,-143.029468"
+       id="path4204-2"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 537.59278,176.50484 0,-143.029468"
+       id="path4204-27"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 584.72732,176.33607 0,-143.029465"
+       id="path4204-7"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 645.2324,176.33607 0,-143.029465"
+       id="path4204-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 693.21208,176.33607 0,-143.029465"
+       id="path4204-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:1.00311387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 432.71429,176.82335 0,-143.029477"
+       id="path4204"
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#75507b;fill-opacity:1;stroke:none"
        d="m 19.3053,36.76583 333.35034,0 c 0,0 0.25998,-23.73859 -20.95323,-23.73859 -21.2132,0 -290.72959,0.20921 -290.72959,0.20921 0,0 -24.69798,0.29587 -21.66752,23.52938 z"
@@ -487,5 +552,91 @@
          y="875.19147"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3747">casting: $casted = (int) $unknown;</tspan></text>
+    <path
+       style="fill:#75507b;fill-opacity:1;stroke:none"
+       d="m 391.44815,36.194446 333.35034,0 c 0,0 0.25998,-23.73858 -20.95323,-23.73858 -21.2132,0 -290.7296,0.20921 -290.7296,0.20921 0,0 -24.69797,0.29587 -21.66751,23.52937 z"
+       id="path3763-2-6-5-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 411.89239,13.056766 292.50092,0 c 11.0709,0 19.98357,8.46346 19.98357,22.79155 l 0,141.247864 -332.46806,0 0,-141.247864 c 0,-14.32809 8.91267,-22.79155 19.98357,-22.79155 z"
+       id="rect2987-9-8-8-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       x="409.63089"
+       y="28.6182"
+       id="text3759-1-6-3-3-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="409.63089"
+         y="28.6182"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+         id="tspan4393-9-4-4-7">Testing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="395.94559"
+       y="46.334328"
+       id="text3765-2-9-2-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="46.334328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4104">       === NULL == NULL isset() is_null() empty() bool </tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="58.834328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4184">NULL      T        T       F        T        T     F</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="71.334328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4186">0         F        T       T        F        T     F</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="83.834328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4188">1         F        F       T        F        F     T</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="96.334328"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4190">-1        F        F       T        F        F     T</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="108.83433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4192">&quot;&quot;        F        T       T        F        T     F</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="121.33433"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4194">&quot; &quot;       F        F       T        F        F     T</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="133.83432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4196">&quot;0&quot;       F        F       T        F        T     T</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="146.33432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4198">&quot;1&quot;       F        F       T        F        F     T</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="158.83432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4200">FALSE     F        T       T        F        T     F</tspan><tspan
+         sodipodi:role="line"
+         x="395.94559"
+         y="171.33432"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4202">TRUE      F        F       T        F        F     T</tspan></text>
   </g>
 </svg>
