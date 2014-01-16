@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="549.1666"
-     inkscape:cy="932.74307"
+     inkscape:zoom="1.979899"
+     inkscape:cx="544.0054"
+     inkscape:cy="764.92413"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -638,5 +638,91 @@
          y="171.33432"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan4202">TRUE      F        F       T        F        F     T</tspan></text>
+    <path
+       style="fill:#75507b;fill-opacity:1;stroke:none"
+       d="m 391.41458,212.69309 333.35034,0 c 0,0 0.25998,-23.73859 -20.95323,-23.73859 -21.2132,0 -290.72959,0.20921 -290.72959,0.20921 0,0 -24.69798,0.29587 -21.66752,23.52938 z"
+       id="path3763-5-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccscc" />
+    <path
+       style="fill:none;stroke:#5c3566;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 411.89669,189.59844 292.42518,0 c 11.06803,0 19.97839,6.8193 19.97839,22.74283 l 0,115.70551 -332.38196,0 0,-115.70551 c 0,-15.92353 8.91036,-22.74283 19.97839,-22.74283 z"
+       id="rect2987-0-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccss" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       x="409.59732"
+       y="205.11693"
+       id="text3759-3-2-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3761-6-8-4"
+         x="409.59732"
+         y="205.11693"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#eeeeec;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">Comparison Operators</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="395.91205"
+       y="222.83304"
+       id="text3765-8-2-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="222.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4658-7">==   Equal (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="235.33304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4395">===  Identical (checks types)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="247.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4401">!=   Not Equal (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="260.33304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4403">&lt;&gt;   Not Equal (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="272.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4417">!==  Not Identical (checks types)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="285.33304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4397">&lt;    Less than (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="297.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4413">&gt;    Greater than (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="310.33304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4411">&lt;=   Less than or equal (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="322.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4399">&gt;=   Greater than or equal (casts as necessary)</tspan><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="335.33304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4660-8" /><tspan
+         sodipodi:role="line"
+         x="395.91205"
+         y="347.83304"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
+         id="tspan4662-8" /></text>
   </g>
 </svg>
