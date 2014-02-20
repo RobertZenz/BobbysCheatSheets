@@ -322,8 +322,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6672882"
-     inkscape:cx="497.06683"
-     inkscape:cy="116.85571"
+     inkscape:cx="527.30875"
+     inkscape:cy="735.1409"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2185,12 +2185,12 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="542.33746"
+       x="539.93829"
        y="939.70795"
        id="text3765-8-20-7-55-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="542.33746"
+         x="539.93829"
          y="939.70795"
          id="tspan4413-3-4-6-0"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Radial out</tspan></text>
@@ -2230,5 +2230,29 @@
          y="1031.8706"
          id="tspan4413-3-4-0-5-3-7"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Anti-normal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="456.08054"
+       y="243.21945"
+       id="text3765-8-20-7-55-4-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="456.08054"
+         y="243.21945"
+         id="tspan4413-3-4-6-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Orbited body</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
+       x="613.83289"
+       y="243.22449"
+       id="text3765-8-20-7-55-4-8-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="613.83289"
+         y="243.22449"
+         id="tspan4413-3-4-6-0-7-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono">Space</tspan></text>
   </g>
 </svg>
