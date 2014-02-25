@@ -322,8 +322,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.1789508"
-     inkscape:cx="441.55409"
-     inkscape:cy="289.42784"
+     inkscape:cx="372.61336"
+     inkscape:cy="292.25676"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1103,28 +1103,28 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
+       x="147.13693"
        y="678.23846"
        id="text3765-8-20"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="678.23846"
          id="tspan4413-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Level Indicator</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="690.73846"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3316">Shows the orientation of</tspan><tspan
+         id="tspan3320">Shows the orientation of</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="703.23846"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3320">the craft.</tspan></text>
+         id="tspan4431">the craft.</tspan></text>
     <g
        id="g4077"
-       transform="matrix(2.9304451,0,0,2.9304451,-104.70925,-1435.5741)">
+       transform="matrix(2.9304451,0,0,2.9304451,-118.70925,-1435.5741)">
       <path
          style="fill:none;stroke:#edd400;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 53.89151,720.05086 12.382075,0 5.542453,5.54245 5.660378,-5.66038 12.264151,0"
@@ -1142,52 +1142,57 @@
          transform="translate(-6.4858491,22.759434)" />
     </g>
     <g
-       id="g4538"
-       transform="translate(-0.36758411,-19.849542)">
+       id="g4420"
+       transform="translate(-14,0)">
       <g
-         id="g4347">
-        <path
-           sodipodi:type="arc"
-           style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path4083-6"
-           sodipodi:cx="96.698112"
-           sodipodi:cy="762.50366"
-           sodipodi:rx="23.820755"
-           sodipodi:ry="23.820755"
-           d="m 120.51887,762.50366 c 0,13.15584 -10.66492,23.82076 -23.820758,23.82076 -13.155839,0 -23.820755,-10.66492 -23.820755,-23.82076 0,-13.15584 10.664916,-23.82075 23.820755,-23.82075 13.155838,0 23.820758,10.66491 23.820758,23.82075 z"
-           transform="translate(9.6231425,0.12203232)" />
-        <path
-           sodipodi:type="arc"
-           style="fill:#73d216;fill-opacity:1;stroke:#73d216;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           id="path4089-1"
-           sodipodi:cx="96.698112"
-           sodipodi:cy="762.50366"
-           sodipodi:rx="2.2405665"
-           sodipodi:ry="2.2405665"
-           d="m 98.938679,762.50366 c 0,1.23743 -1.003136,2.24057 -2.240567,2.24057 -1.23743,0 -2.240566,-1.00314 -2.240566,-2.24057 0,-1.23743 1.003136,-2.24056 2.240566,-2.24056 1.237431,0 2.240567,1.00313 2.240567,2.24056 z"
-           transform="translate(9.6231425,0.12203232)" />
+         transform="translate(-0.36758411,-19.849542)"
+         id="g4538">
+        <g
+           id="g4347">
+          <path
+             transform="translate(9.6231425,0.12203232)"
+             d="m 120.51887,762.50366 c 0,13.15584 -10.66492,23.82076 -23.820758,23.82076 -13.155839,0 -23.820755,-10.66492 -23.820755,-23.82076 0,-13.15584 10.664916,-23.82075 23.820755,-23.82075 13.155838,0 23.820758,10.66491 23.820758,23.82075 z"
+             sodipodi:ry="23.820755"
+             sodipodi:rx="23.820755"
+             sodipodi:cy="762.50366"
+             sodipodi:cx="96.698112"
+             id="path4083-6"
+             style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             sodipodi:type="arc" />
+          <path
+             transform="translate(9.6231425,0.12203232)"
+             d="m 98.938679,762.50366 c 0,1.23743 -1.003136,2.24057 -2.240567,2.24057 -1.23743,0 -2.240566,-1.00314 -2.240566,-2.24057 0,-1.23743 1.003136,-2.24056 2.240566,-2.24056 1.237431,0 2.240567,1.00313 2.240567,2.24056 z"
+             sodipodi:ry="2.2405665"
+             sodipodi:rx="2.2405665"
+             sodipodi:cy="762.50366"
+             sodipodi:cx="96.698112"
+             id="path4089-1"
+             style="fill:#73d216;fill-opacity:1;stroke:#73d216;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+             sodipodi:type="arc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4093-9"
+             d="m 131.20329,762.62572 20.63679,0"
+             style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path4093-3-8"
+             d="m 60.743432,762.62573 20.636791,0"
+             style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+        </g>
         <path
            style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 131.20329,762.62572 20.63679,0"
-           id="path4093-9"
-           inkscape:connector-curvature="0" />
-        <path
-           style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 60.743432,762.62573 20.636791,0"
-           id="path4093-3-8"
+           d="m 106.32125,737.92054 0,-20.6368"
+           id="path4093-35-1"
            inkscape:connector-curvature="0" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path4093-35-1"
-         d="m 106.32125,737.92054 0,-20.6368"
-         style="fill:none;stroke:#73d216;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       id="g3352">
+       id="g3352"
+       transform="translate(-14,0)">
       <path
          transform="translate(9.0668011,59.274637)"
-         d="m 120.51887,762.50366 a 23.820755,23.820755 0 1 1 -47.641513,0 23.820755,23.820755 0 1 1 47.641513,0 z"
+         d="m 120.51887,762.50366 c 0,13.15584 -10.66492,23.82076 -23.820758,23.82076 -13.155839,0 -23.820755,-10.66492 -23.820755,-23.82076 0,-13.15584 10.664916,-23.82075 23.820755,-23.82075 13.155838,0 23.820758,10.66491 23.820758,23.82075 z"
          sodipodi:ry="23.820755"
          sodipodi:rx="23.820755"
          sodipodi:cy="762.50366"
@@ -1223,7 +1228,7 @@
     </g>
     <g
        id="g4320"
-       transform="translate(-121.80859,89.27208)">
+       transform="translate(-135.80859,89.27208)">
       <path
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
@@ -1243,7 +1248,7 @@
     </g>
     <g
        id="g4435"
-       transform="translate(-122.22503,146.0777)">
+       transform="translate(-136.22503,146.0777)">
       <path
          transform="translate(131.11058,33.366751)"
          d="m 98.938679,762.50366 c 0,1.23743 -1.003136,2.24057 -2.240567,2.24057 -1.23743,0 -2.240566,-1.00314 -2.240566,-2.24057 0,-1.23743 1.003136,-2.24056 2.240566,-2.24056 1.237431,0 2.240567,1.00313 2.240567,2.24056 z"
@@ -1272,7 +1277,7 @@
     </g>
     <g
        id="g4529"
-       transform="translate(-122.03789,212.46362)">
+       transform="translate(-136.03789,212.46362)">
       <path
          transform="matrix(-1,0,0,-1,324.63981,1558.3306)"
          d="m 98.938679,762.50366 c 0,1.23743 -1.003136,2.24057 -2.240567,2.24057 -1.23743,0 -2.240566,-1.00314 -2.240566,-2.24057 0,-1.23743 1.003136,-2.24056 2.240566,-2.24056 1.237431,0 2.240567,1.00313 2.240567,2.24056 z"
@@ -1317,113 +1322,103 @@
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
-       y="725.48407"
+       x="147.13693"
+       y="733.48407"
        id="text3765-8-20-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="725.48407"
+         x="147.13693"
+         y="733.48407"
          id="tspan4413-3-4"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Prograde</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="737.98407"
+         x="147.13693"
+         y="745.98407"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3324">Direction into which</tspan><tspan
+         id="tspan3326">Direction into which the craft</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="750.48407"
+         x="147.13693"
+         y="758.48407"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3326">the craft is moving</tspan><tspan
-         sodipodi:role="line"
-         x="169.13693"
-         y="762.98407"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3328">(not facing).</tspan></text>
+         id="tspan3328">is moving (not facing).</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
-       y="813.51093"
+       x="147.13693"
+       y="819.51093"
        id="text3765-8-20-7-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="813.51093"
+         x="147.13693"
+         y="819.51093"
          id="tspan4413-3-4-0"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Retrograde</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="826.01093"
+         x="147.13693"
+         y="832.01093"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3348">Opposite of prograde.</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="838.51093"
+         x="147.13693"
+         y="844.51093"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3330" /></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
-       y="878.16699"
+       x="147.13693"
+       y="880.16699"
        id="text3765-8-20-7-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="878.16699"
+         x="147.13693"
+         y="880.16699"
          id="tspan4413-3-4-4"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Target prograde</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="890.66699"
+         x="147.13693"
+         y="892.66699"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
          id="tspan3334">Direction towards the target.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
-       y="937.54175"
+       x="147.13693"
+       y="939.54175"
        id="text3765-8-20-7-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="937.54175"
+         x="147.13693"
+         y="939.54175"
          id="tspan4413-3-4-8"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Target retrograde</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
-         y="950.04175"
+         x="147.13693"
+         y="952.04175"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3336">Direction away from</tspan><tspan
-         sodipodi:role="line"
-         x="169.13693"
-         y="962.54175"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3338">the target.</tspan></text>
+         id="tspan3338">Direction away from the target.</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Droid Sans Mono;-inkscape-font-specification:Droid Sans Mono"
-       x="169.13693"
+       x="147.13693"
        y="992.67865"
        id="text3765-8-20-7-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="992.67865"
          id="tspan4413-3-4-89"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">Maneuver prograde</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="1005.1786"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3342">Burn into this direction</tspan><tspan
+         id="tspan3346">Burn into this direction when</tspan><tspan
          sodipodi:role="line"
-         x="169.13693"
+         x="147.13693"
          y="1017.6786"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono"
-         id="tspan3346">when doing maneuvers.</tspan></text>
+         id="tspan4443">doing maneuvers.</tspan></text>
     <path
        style="fill:#8ae234;fill-opacity:1;stroke:none"
        d="m 392.61194,33.947239 333.35034,0 c 0,0 0.25998,-23.73859 -20.95323,-23.73859 -21.21321,0 -290.72959,0.20921 -290.72959,0.20921 0,0 -21.74367,-0.8622098 -21.66752,23.52938 z"
